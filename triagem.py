@@ -3,7 +3,6 @@ from paciente import Paciente
 
 class Triagem:
 	nomes_triagem = ["Fabricio", "Giovanna", "Galamundna", "Mavven", "Izabela"]
-	paciente_nome = ["Leonardo", "Domartelo", "Da20", "LilRafa", "Dilma", "Aria"]
 	prioridade = ["vermelho", "laranja", "verde", "azul"]
 	
 	def __init__(self):
